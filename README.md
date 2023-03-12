@@ -1,6 +1,6 @@
-#Unit testing tasks
+# Unit testing tasks
 
-##All Users: Output and Adding More Tests
+## All Users: Output and Adding More Tests
 We know now how the test runner behaves when a test passes and can begin the real work of unit testing the Car class. One responsibility of the Car class constructor is to set its initial gasTankLevel field. This field is determined by the constructor argument for gasTankSize.
 
 Car.cs:
@@ -11,8 +11,8 @@ GasTankLevel = gasTankSize;
 
 This class-specific behavior is a good item to test. Under your second TODO, write a test to verify that the constructor sets the gasTankLevel field.
 
-##TestGasTankAfterDriving()
-Add a test for the third TODO, ìGasTankLevel is accurate after driving within tank rangeî.
+## TestGasTankAfterDriving()
+Add a test for the third TODO, ‚ÄúGasTankLevel is accurate after driving within tank range‚Äù.
 
 Your test must use the Car method Drive()
 
@@ -22,12 +22,12 @@ With a value of 50 miles passed into Drive(), we expect test_car to have a GasTa
 
 `Assert.AreEqual(9, test_car.GasTankLevel, .001);`
 
-##TestGasTankAfterExceedingTankRange()
-Add a test for the fourth TODO, ìGasTankLevel is accurate after attempting to drive past tank rangeî.
+## TestGasTankAfterExceedingTankRange()
+Add a test for the fourth TODO, ‚ÄúGasTankLevel is accurate after attempting to drive past tank range‚Äù.
 
-Youíre on your own for this one. Youíll need to simulate the Car travelling farther than itís gasTankLevel allows.
+You‚Äôre on your own for this one. You‚Äôll need to simulate the Car travelling farther than it‚Äôs gasTankLevel allows.
 
-##TestGasOverfillException()
+## TestGasOverfillException()
 The test for our last TODO is a little different. We are going to perform an action on our car object, and we are expecting the object to throw an error. In this case, we are going to attempt to add gas to our car that exceeds the gas tank size.
 
 1. Update the Car class to include an AddGas() method.
