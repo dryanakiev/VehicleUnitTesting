@@ -1,0 +1,15 @@
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\bin\Debug\net6.0\VehichleUnitTesting.exe
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\bin\Debug\net6.0\VehichleUnitTesting.deps.json
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\bin\Debug\net6.0\VehichleUnitTesting.runtimeconfig.json
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\bin\Debug\net6.0\VehichleUnitTesting.dll
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\bin\Debug\net6.0\VehichleUnitTesting.pdb
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.csproj.AssemblyReference.cache
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.AssemblyInfoInputs.cache
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.AssemblyInfo.cs
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.dll
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\refint\VehichleUnitTesting.dll
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.pdb
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\VehichleUnitTesting.genruntimeconfig.cache
+C:\Users\didit\source\repos\VehichleUnitTesting\VehichleUnitTesting\obj\Debug\net6.0\ref\VehichleUnitTesting.dll
